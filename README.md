@@ -1,4 +1,4 @@
-**# Flashcard Quiz App
+## Flashcard Quiz App
 
 A simple web app for studying with flashcards. Built for the CodeAlpha App Development internship (Task 1).
 
